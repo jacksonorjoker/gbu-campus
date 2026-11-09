@@ -15,6 +15,10 @@ The rebuilt campus follows the physical model: towers at one end, the crescent a
 
 Night audio shuts down completely on victory, defeat, quit or exit. Pause, mute and leaving the game window suspend its audio engine, including during demos. Continue or Retry restores sound only for active gameplay. See `artifacts/audio-shutdown-evidence.md` for the focused checks and rollout status. Refresh an already-open game tab after an update to load the latest version.
 
+## Student contribution
+
+The night title screen explains how the Listener responds to noise and proximity, affects composure, and can be slowed or avoided using the torch or lanterns. This changes the introduction only; it does not change game mechanics. The story remains fictional and the campus is not an official or surveyed tour.
+
 ## Run locally
 
 For a fresh checkout, install Node 22.12 or newer, open a terminal in the repository root, then run:
